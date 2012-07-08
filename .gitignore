@@ -1,0 +1,4 @@
+.lein-deps-sum
+*.jar
+classes
+lib
